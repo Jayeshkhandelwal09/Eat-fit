@@ -1,4 +1,4 @@
-## EatFit
+## EatFit  
 
 Welcome to EatFit – Your Ultimate Destination for Healthy and Delicious Meals!
 
@@ -47,6 +47,10 @@ Reach out to us effortlessly using the 'Contact Us' form. Our user-friendly form
   npm start
 
 ## Screenshots
+
+## Spinner
+![Screenshot Capture - 2023-11-28 - 16-58-27](https://github.com/Jayeshkhandelwal09/Eat-fit/assets/112822012/b0702ee3-ef2a-4ef9-ad09-16aa770764ee)
+
 
 ## Landing Page
 ![Screenshot Capture - 2023-11-28 - 15-53-13](https://github.com/Jayeshkhandelwal09/Eat-fit/assets/112822012/c9490248-83b6-41cd-a16e-2eff3ff4e409)
