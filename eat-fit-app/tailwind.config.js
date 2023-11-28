@@ -6,6 +6,7 @@ module.exports = {
       'brandon': ['BrandonTextWebRegular', 'sans-serif'],
     }, colors: {
       customPink: '#fc2e71',
+      blue:'#02205F',
     }},
   },
   plugins: [],
