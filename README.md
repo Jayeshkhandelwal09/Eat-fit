@@ -1,4 +1,7 @@
-## EatFit  
+![eatfit-logo-horizontal](https://github.com/Jayeshkhandelwal09/Eat-fit/assets/112822012/752de291-8e18-4526-b7e6-7b0c31b45c5b)
+
+
+## EatFit 
 
 Welcome to EatFit – Your Ultimate Destination for Healthy and Delicious Meals!
 
